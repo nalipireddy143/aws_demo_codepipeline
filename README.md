@@ -1,3 +1,3 @@
-# Sample Application for AWS DevOps Course
+# Sample Application for AWS Code_Pipeline for Demo.
 
 #updated this file
